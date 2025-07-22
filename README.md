@@ -2,6 +2,6 @@
 
 All of the pinned Repositories are cloned from OG-Mod-Base, to make modding possible on OpenGOAL.
 <div style="display: flex; flex-direction: row;">
-  <img src="https://imgur.com/Haav8Pj">
-  <img src="https://imgur.com/TcJJdVF">
+  <img src="[https://imgur.com/Haav8Pj](https://imgur.com/Haav8Pj)">
+  <img src="[https://imgur.com/TcJJdVF](https://imgur.com/TcJJdVF)">
 </div>
