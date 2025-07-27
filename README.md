@@ -5,11 +5,3 @@ All of the pinned Repositories are cloned from OG-Mod-Base, to make modding poss
   <img src="https://imgur.com/Haav8Pj" alt="">
   <img src="https://imgur.com/Haav8Pj" alt="">
 </div>
-
-<style>
-  .latest-flex{
-    width: 100%;
-    height: 100%;
-    border: 2px solid red;
-  }
-</style>
