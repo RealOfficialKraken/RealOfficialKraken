@@ -5,4 +5,4 @@ All of the pinned Repositories are cloned from OG-Mod-Base, to make modding poss
 <hr>
 <br>
 <center><h1>Current Projects</h1></center>
-![alt-text](https://imgur.com/Haav8Pj)
+![alt-text](https://i.imgur.com/Haav8Pj.png)
