@@ -11,7 +11,7 @@ All of the pinned Repositories are cloned from OG-Mod-Base, to make modding poss
     <a href="https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus">Jak 3 HeroMode+</a> - An Overhaul Mod for OpenGOAL's Jak 3
   </li>
   <li>
-    <a href="https://github.com/RealOfficialKraken/KatKen">KrakenKat</a> - A Fun Cat extension for FireFox representing my own cat
+    <a href="https://github.com/RealOfficialKraken/KrakenKat">KrakenKat</a> - A Fun Cat extension for FireFox representing my own cat
   </li>
   <li>
     <a href="https://github.com/RealOfficialKraken/War">Jak II War Mod</a> - An OpenGOAL Mod aimed at bringing Battlefront elements into Jak II
