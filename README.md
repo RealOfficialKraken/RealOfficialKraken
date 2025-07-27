@@ -5,3 +5,4 @@ All of the pinned Repositories are cloned from OG-Mod-Base, to make modding poss
 <hr>
 <br>
 <center><h1>Current Projects</h1></center>
+![alt-text](https://github.com/RealOfficialKraken/updated-HeroModePlus/blob/3a3c0599f0a61365288043df13deef13596d3e27/Haav8Pj.png)
