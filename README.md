@@ -17,3 +17,8 @@ All of the pinned Repositories are cloned from OG-Mod-Base, to make modding poss
     <a href="https://github.com/RealOfficialKraken/War">Jak II War Mod</a> - An OpenGOAL Mod aimed at bringing Battlefront elements into Jak II
   </li>
 </ul>
+<hr>
+
+# About Kraken
+Thinking outside of the box has always been a favorite theme for me to turn to in my creations. When I first made this GitHub account, I had to do it for the sake of modding OpenGOAL with the intent to publish. Most of my favorite projects are ones for OpenGOAL, because right now they reflect the most of what my programming skills have to offer. If you want to see that for yourself, I highly suggest going to <a href="https://jakmods.dev/">JakMods</a> to look up a reference, or to check out a streamer who has played my mods before.
+<hr>
