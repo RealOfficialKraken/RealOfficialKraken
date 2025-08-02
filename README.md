@@ -10,7 +10,7 @@
     <a href="https://github.com/RealOfficialKraken/KrakenKat">KrakenKat</a> - A Fun Cat extension for FireFox representing my own cat
   </li>
   <li>
-    <a href="https://github.com/RealOfficialKraken/Kraken-IMEI-Fetcher">Kraken's IMEI Fetcher</a> - An extension for Chrome that fetches the make/model of a device based on it's IMEI really quickly, by using an API to parse the JSON it returns.
+    <a href="https://github.com/RealOfficialKraken/Kraken-IMEI-Fetcher">Kraken's IMEI Lookup</a> - An extension for Chrome that fetches the make/model of a device based on it's IMEI really quickly, by using an API to parse the JSON it returns.
   <li>
     <a href="https://github.com/RealOfficialKraken/War">Jak II War Mod</a> - An OpenGOAL Mod aimed at bringing Battlefront elements into Jak II
   </li>
