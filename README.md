@@ -13,7 +13,7 @@
     <a href="https://github.com/RealOfficialKraken/Kraken-IMEI-Lookup">Kraken's IMEI Lookup</a> - An extension for Chrome that fetches the make/model of a device based on it's IMEI really quickly, by using an API to parse the JSON it returns.
   <li>
     <a href="https://github.com/RealOfficialKraken/roguelikejakii">Roguelike Jak II</a> - An OpenGOAL Mod aimed at bringing roguelike elements into Jak II
-    <img src="https://github.com/RealOfficialKraken/roguelikejakii/blob/main/Mod-Thumbnail.png?raw=true" width="250" height="200">
+    <img src="https://github.com/RealOfficialKraken/roguelikejakii/blob/main/Mod-Thumbnail.png?raw=true" width="200" height="250">
   </li>
 </ul>
 <hr>
