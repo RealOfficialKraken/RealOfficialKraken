@@ -2,7 +2,7 @@
 
 <center><h1>Current Projects</h1></center>
 
-<center style="display: flex; flex-direction: column;">
+<div style="display: flex; justify-content: space-evenly; align-items: center;">
   <ul>
   <li>
     <a href="https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus">Jak 3 HeroMode+</a> - An Overhaul Mod for OpenGOAL's Jak 3
@@ -17,8 +17,9 @@
     <img src="https://github.com/RealOfficialKraken/roguelikejakii/blob/main/Mod-Thumbnail.png?raw=true" width="200" height="250">
   </li>
 </ul>
-</center>
+</div>
 <hr>
+
 # About Kraken
 Thinking outside of the box has always been a favorite theme for me to turn to in my creations. When I first made this GitHub account, I had to do it for the sake of modding OpenGOAL with the intent to publish. Most of my favorite projects are ones for OpenGOAL, because right now they reflect the most of what my programming skills have to offer. If you want to see that for yourself, I highly suggest going to <a href="https://jakmods.dev/">JakMods</a> to look up a reference, or to check out a streamer who has played my mods before.
 <hr>
