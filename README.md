@@ -15,6 +15,9 @@
   <li>
     <a href="https://github.com/RealOfficialKraken/roguelikejakii">Roguelike Jak II</a> - An OpenGOAL Mod aimed at bringing roguelike elements into Jak II
   </li>
+    <li>
+      <a href="https://github.com/RealOfficialKraken/TLOPO-Prototype-Quick-Launcher">TLOPO Quick Launcher (Prototype)</a> - A python app made to launch multiple TLOPO accounts quickly, using their API.
+    </li>
 </ul>
 </div>
 <hr>
