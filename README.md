@@ -1,6 +1,8 @@
 <img align="center" width="90%" height="95%" src="https://github-readme-stats.vercel.app/api/wakatime?username=TheMattBookPro&theme=tokyonight&size_weight=0.5&count_weight=0.5&title_color=36F9F6&langs_count=10" alt="WakaTime Stats Error" />
 
-<center><h1>Current Projects</h1></center>
+<center><h1>Heyo, my name is Matt and I like making fun games</h1></center>
+<center>My current phase is modding for <a href="https://opengoal.dev/">OpenGOAL</a> and using JS to make chrome/firefox extensions, and other backend work :)</center>
+<center><h2>Current Projects</h2></center>
 
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
   <ul>
