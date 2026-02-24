@@ -1,4 +1,5 @@
-<center><h1>Heyo, my name is Matt and I like making fun games</h1></center>
+<center><h1>Matt Krueger loves making stuff</h1></center>
+<center>I have an innate sense of creativity. When I don't create stuff, I generate ideas overtime--until it all comes out at once. Usually, the result is a sophisticated mess of bright colors.</center>
 <center>My current phase is modding for <a href="https://opengoal.dev/">OpenGOAL</a> and using JS to make chrome/firefox extensions, and other backend work :)</center>
 <center><h2>Current Projects</h2></center>
 
