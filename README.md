@@ -1,6 +1,6 @@
-<center><h1>Matt Krueger loves making stuff</h1></center>
-<center>I have an innate sense of creativity. When I don't create stuff, I generate ideas overtime--until it all comes out at once. Usually, the result is a sophisticated mess of bright colors.</center>
-<center>My current phase is modding for <a href="https://opengoal.dev/">OpenGOAL</a> and using JS to make chrome/firefox extensions, and other backend work :)</center>
+<center><h1>I love making cool stuff</h1></center>
+<center>Creativity and thinking outside of the box is my passion.</center>
+<center>My current phase is modding for <a href="https://opengoal.dev/">OpenGOAL</a></center>
 <center><h2>Current Projects</h2></center>
 
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
@@ -24,6 +24,5 @@
 <hr>
 
 # About Kraken
-Thinking outside of the box has always been a favorite theme for me to turn to in my creations. When I first made this GitHub account, I had to do it for the sake of modding OpenGOAL with the intent to publish. Most of my favorite projects are ones for OpenGOAL, because right now they reflect the most of what my programming skills have to offer. If you want to see that for yourself, I highly suggest going to <a href="https://jakmods.dev/">JakMods</a> to look up a reference, or to check out a streamer who has played my mods before.
+My biggest skills are game programming, music creation, video editing, graphical design, and digital marketing.
 <hr>
-<h3>I thoroughly enjoy the idea of vision-to-tangibility: Building things that I can call unique to myself.</h3>
