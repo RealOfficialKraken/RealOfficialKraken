@@ -1,6 +1,6 @@
 <center><h1>I love making cool stuff</h1></center>
 <center>Creativity and thinking outside of the box is my passion.</center>
-<center>My current phase is modding for <a href="https://opengoal.dev/">OpenGOAL</a></center>
+<center>My current phase is making big projects for <a href="https://opengoal.dev/">OpenGOAL</a></center>
 <center><h2>Current Projects</h2></center>
 
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
